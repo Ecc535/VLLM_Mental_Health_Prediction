@@ -24,7 +24,7 @@ Goal: Use vLLM to predict mental health. This repo tries to improve LLM efficien
 
 ---
 
-## Setup and Settings
+## Settings
 
 - **Deployment:** API server used to launch vLLM  
 - **Efficiency Optimizations:**  
@@ -34,7 +34,7 @@ Goal: Use vLLM to predict mental health. This repo tries to improve LLM efficien
 
 ---
 
-## Key Findings
+## Findings
 
 - **LLM Performance:**  
   - Good at predicting **overall burnout**. The overall accuracy is 0.84 and the average F1 score is more than 0.65 for 2 labels.
