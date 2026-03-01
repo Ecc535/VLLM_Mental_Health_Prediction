@@ -6,7 +6,7 @@ Goal: Use vLLM to predict mental health. This repo tries to improve LLM efficien
 ## Dataset Overview
 
 - **Population:** Clinicians with long shift work patterns (`n = 44`)  
-- **Label:** Highly skewed outcome — **burnout**  
+- **Label:** Highly skewed outcome — **burnout** (High : Low = 38 : 6) 
 - **Burnout Evaluation:** Assessed across **three perspectives**:  
   1. **Emotional Exhaustion**  
   2. **Depersonalization**  
